@@ -13,7 +13,9 @@ body {
   color: #666666;
   font-family: "Open Sans", sans-serif;
 }
-
+iframe{
+  text-align: center;
+}
 a {
   color: #03C4EB;
   transition: 0.5s;
@@ -485,7 +487,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-container {
-  background: url(../img/capivara.jpg) left top no-repeat;
+  background: url(../img/po.png) left top no-repeat;
 }
 
 #about .about-content {
@@ -663,7 +665,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
-
+ 
 /* Testimonials Section
 --------------------------------*/
 #testimonials {
@@ -863,3 +865,4 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+
